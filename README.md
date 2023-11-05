@@ -9,6 +9,6 @@ With Jax to program the forward problem (thermal mechanical homogenization), lev
 
 # Future work
 
-Augment this small data set to train a generative model for inverse design
+Augment this small data set with developed [shape blending](https://github.com/cchu92/sdf_shape_blending) to train a generative model for inverse design
 
 
